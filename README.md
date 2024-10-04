@@ -18,6 +18,8 @@
 - ⚡ Fun fact **I am DevOps Engnieer**
 
 - 🤝 I’m looking for help with **Internship**
+  
+- 📄 Know about my experiences [https://drive.google.com/file/d/193hNm5quV2sEQEMitQ4QwAGkEX9ZM4x1/view?usp=drivesdk](https://drive.google.com/file/d/193hNm5quV2sEQEMitQ4QwAGkEX9ZM4x1/view?usp=drivesdk)
 
 <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
 
