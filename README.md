@@ -1,7 +1,11 @@
  <h1 align="center">Hi 👋, I'm Sumit Jadhav</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+
+ <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=996&center=true&random=false&width=435&lines=DevOps+Engineer+..." alt="Typing SVG" /></a></h2>
 
 <img alt="Coder" align="right" width="400"  src= "https://miro.medium.com/v2/resize:fit:1400/1*pvyg35Epezjv5T6nSjFkZw.gif">
+ 
+<h3 align="center">A passionate DevOps Engineer from India</h3>
+
 
 - 🌱 I’m currently learning **DevOps tools**
 
