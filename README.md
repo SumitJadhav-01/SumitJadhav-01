@@ -19,6 +19,7 @@
 
 - 🤝 I’m looking for help with **Internship**
 
+<img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
